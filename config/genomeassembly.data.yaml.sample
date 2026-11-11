@@ -1,0 +1,5 @@
+
+- id: dmEndPube1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-forest-pacbio-hifi-645597-m84118_260413_053724_s3.fastq.gz

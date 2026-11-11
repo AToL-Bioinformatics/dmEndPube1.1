@@ -1,0 +1,4 @@
+sample,assembly_type,assembly_file
+dmEndPube1.1,PRIMARY,${PWD}/results/genomeassembly/dmEndPube1.1/dmEndPube1.1.pacbio_hifi.purged/purging/asm.purged.fa.gz
+dmEndPube1.1,HAPLO,${PWD}/results/genomeassembly/dmEndPube1.1/dmEndPube1.1.pacbio_hifi.purged/purging/asm.htigs.all.fa.gz
+dmEndPube1.1,MITO,${PWD}/results/genomeassembly/dmEndPube1.1/dmEndPube1.1.pacbio_hifi.purged/mito/final_mitogenome.fasta
